@@ -1,3 +1,6 @@
+
+<h1 align="center">![68747470733a2f2f692e696d6775722e636f6d2f41385a743864572e706e67](https://github.com/FalinChimera/falinchimera/assets/173514942/b947ac5e-95ba-407d-8cd2-6825195950bc)
+
 <h1 align="center">Hi, I'm Falin.</h1>
 <h3 align="center">A passionate fullstack developer.</h3>
 
@@ -14,6 +17,7 @@
 <p align="center"> - 🤍 Age <strong>20.</strong>
 
 <p align="center"> - 🤍 Second Account <strong>https://github.com/spicebag</strong>
+<p align="center"> - 🤍 Second Account ![Spicebag](https://github.com/spicebag)
 
 <p align="center"> - 🤍 Currently Studying <strong>PEN-200 / SOC-200.</strong>
 
