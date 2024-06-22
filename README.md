@@ -1,6 +1,7 @@
 <![68747470733a2f2f692e696d6775722e636f6d2f41385a743864572e706e67](https://github.com/FalinChimera/falinchimera/assets/173514942/a120fa4a-23ee-48de-9539-357a63c736a4)
 
-h1 align="center">Hi, I'm Falin.</h1>
+
+<h1 align="center">Hi, I'm Falin.</h1>
 <h3 align="center">A passionate fullstack developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=falinchimera&label=Profile%20views&color=0e75b6&style=flat" alt="falinchimera" /> </p>
