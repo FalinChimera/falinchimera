@@ -1,5 +1,6 @@
-
-![68747470733a2f2f692e696d6775722e636f6d2f41385a743864572e706e67](https://github.com/FalinChimera/falinchimera/assets/173514942/dcaa0171-d221-4fb2-98b5-e32d16b13efe)
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/1253063996207140978/1253871962606796850/68747470733a2f2f692e696d6775722e636f6d2f41385a743864572e706e67.png?ex=66776ec3&is=66761d43&hm=062e7b10adffacc3b8afb087305c42d2b997981cc4f828fff2062b8eb445a63f&" />
+</p>
 <h3 align="center">Hi, I'm Falin.</h1>
 <h3 align="center">A passionate fullstack developer.</h3>
 
