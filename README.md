@@ -15,13 +15,13 @@
 
 <p align="center"> - 🤍 Second Account [https://github.com/spicebag.] (https://github.com/spicebag.)
 
-<p align="center"> - 🖤 Contact (Discord) [FalinTouden.] (FalinTouden.)
-
 <p align="center"> - 🤍 Currently Studying **PEN-200 / SOC-200.**
 
 <p align="center"> - 🖤 Favourite Past Projects **QBCore, ISTBRApi.**
 
-<p align="center"> - 🤍 Contact (Email) [FalinChimera@proton.me.] (FalinChimera@proton.me.)
+<p align="center"> - 🖤 Contact (Discord) [FalinTouden.](https://discord.id/?prefill=826178593142734929)
+
+<p align="center"> - 🤍 Contact (Email) <strong>FalinChimera@proton.me.</strong>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
