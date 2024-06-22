@@ -5,23 +5,23 @@
 
 <p align="center"> <a href="https://twitter.com/peroper0w" target="blank"><img src="https://img.shields.io/twitter/follow/peroper0w?logo=twitter&style=for-the-badge" alt="peroper0w" /></a> </p>
 
-- 🤍 You may refer to me as **Falin.**
+<p align="center"> - 🤍 You may refer to me as **Falin.**
 
-- 🖤 Interested in **Dungeon Meshi.**
+<p align="center"> - 🖤 Interested in **Dungeon Meshi.**
 
-- 🖤 Pronouns **she/her & they/them.**
+<p align="center"> - 🖤 Pronouns **she/her & they/them.**
 
-- 🤍 Age **20.**
+<p align="center"> - 🤍 Age **20.**
 
-- 🤍 Second Account [https://github.com/spicebag.](https://github.com/spicebag.)
+<p align="center"> - 🤍 Second Account [https://github.com/spicebag.](https://github.com/spicebag.)
 
-- 🖤 Contact (Discord) [FalinTouden.](FalinTouden.)
+<p align="center"> - 🖤 Contact (Discord) [FalinTouden.](FalinTouden.)
 
-- 🤍 Currently Studying **PEN-200 / SOC-200.**
+<p align="center"> - 🤍 Currently Studying **PEN-200 / SOC-200.**
 
-- 🖤 Favourite Past Projects **QBCore, ISTBRApi.**
+<p align="center"> - 🖤 Favourite Past Projects **QBCore, ISTBRApi.**
 
-- 🤍 Contact (Email) [FalinChimera@proton.me.](FalinChimera@proton.me.)
+<p align="center"> - 🤍 Contact (Email) [FalinChimera@proton.me.](FalinChimera@proton.me.)
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
