@@ -17,7 +17,6 @@
 <p align="center"> - 🤍 Age <strong>20.</strong>
 
 <p align="center"> - 🤍 Second Account <strong>https://github.com/spicebag</strong>
-<p align="center"> - 🤍 Second Account ![Spicebag](https://github.com/spicebag)
 
 <p align="center"> - 🤍 Currently Studying <strong>PEN-200 / SOC-200.</strong>
 
