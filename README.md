@@ -13,13 +13,13 @@
 
 <p align="center"> - 🤍 Age <strong>20.</strong>
 
-<p align="center"> - 🤍 Second Account [https://github.com/spicebag.] (https://github.com/spicebag.)
+<p align="center"> - 🤍 Second Account [https://github.com/spicebag] (https://github.com/spicebag)
 
-<p align="center"> - 🤍 Currently Studying **PEN-200 / SOC-200.**
+<p align="center"> - 🤍 Currently Studying <strong>PEN-200 / SOC-200.</strong>
 
-<p align="center"> - 🖤 Favourite Past Projects **QBCore, ISTBRApi.**
+<p align="center"> - 🖤 Favourite Past Projects <strong>QBCore, ISTBRApi.</strong>
 
-<p align="center"> - 🖤 Contact (Discord) [FalinTouden.](https://discord.id/?prefill=826178593142734929)
+<p align="center"> - 🖤 Contact (Discord) <strong>FalinTouden</strong>
 
 <p align="center"> - 🤍 Contact (Email) <strong>FalinChimera@proton.me.</strong>
 
