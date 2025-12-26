@@ -1,5 +1,4 @@
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1256736289462550648/1256736361051062452/Pr1YpEX.png?ex=6681da71&is=668088f1&hm=bdfe597b9ad35961eae45d09df438f1638d583f7dbfab0fb2be186b0fc6a1b91&" />
 </p>
 <h3 align="center">Hi, I'm Falin.</h1>
 <h3 align="center">A passionate fullstack developer.</h3>
@@ -14,13 +13,11 @@
 
 <p align="center"> - 🖤 Pronouns <strong>she/her & they/them.</strong>
 
-<p align="center"> - 🤍 Age <strong>20.</strong>
+<p align="center"> - 🤍 Age <strong>21.</strong>
 
 <p align="center"> - 🤍 Second Account <strong>https://github.com/spicebag</strong>
 
-<p align="center"> - 🤍 Currently Studying <strong>PEN-200 / SOC-200.</strong>
-
-<p align="center"> - 🖤 Favourite Past Projects <strong>QBCore, ISTBRApi.</strong>
+<p align="center"> - 🖤 Favourite Projects I was involved in <strong>Warden, QBCore, ISTBRApi.</strong>
 
 <p align="center"> - 🖤 Contact (Discord) <strong>FalinTouden</strong>
 
